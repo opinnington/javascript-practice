@@ -1,0 +1,10 @@
+button{
+  padding: 10px;
+  background: steelblue;
+  color: white;
+  border: none;
+}
+
+.active{
+    background-color: beige;
+}
